@@ -8,7 +8,7 @@
 ## ABOUT ME:
 _This section is still under development..)_
 
-## EDUCATION
+## EDUCATION:
 + *University* : **Kharkiv National University of Radio Electronics**
 
 + *Courses* : I study at the **Rolling Scopes School** on the course [“JavaScript/Front-end. Stage 0"](https://rs.school/js-stage0/)
