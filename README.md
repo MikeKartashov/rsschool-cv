@@ -1,0 +1,1 @@
+https://mikekartashov.github.io/rsschool-cv/
